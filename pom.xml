@@ -15,7 +15,7 @@
 
   <properties>
     <vertx.version>4.1.0.redhat-00004</vertx.version>
-    <infinispan.version>9.4.22.Final-redhat-00001</infinispan.version> <!-- should match 9.4.x inside datagrid73-openshift in service.cache.yml-->
+    <infinispan.version>13.0.10.Final</infinispan.version> <!-- should match 9.4.x inside datagrid73-openshift in service.cache.yml-->
     <vertx.verticle>io.openshift.vertx.cache.CacheVerticle</vertx.verticle>
 
     <vertx-maven-plugin.version>1.0.24</vertx-maven-plugin.version>
